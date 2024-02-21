@@ -1,4 +1,4 @@
-# Gestor de aplicaciones para windows.
+# Gestor de aplicaciones para windows (acceso rápido)
 
 El proyecto contempla una interface totalmente personalizable, se trata de una grilla, donde puedes definir accesos rápidos a las aplicaciones que desees y tengas en tu pc.
 
@@ -16,5 +16,7 @@ El usuario puede definir:
 	Español
 	Inglés
 	Otros
+
+[![Ver el video](custom_interface.jpg)](https://youtu.be/vISlap_FMXI)
 
 # NOTA: Se deja un vídeo de demostración donde se establece un ejecutable, una imagen de previsualizacion, el nombre y se hace el cambio de idioma.
