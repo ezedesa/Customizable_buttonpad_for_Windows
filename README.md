@@ -19,4 +19,4 @@ El usuario puede definir:
 
 [![Ver el video](custom_interface.jpg)](https://youtu.be/vISlap_FMXI)
 
-# NOTA: Se deja un vídeo de demostración donde se establece un ejecutable, una imagen de previsualizacion, el nombre y se hace el cambio de idioma.
+### NOTA: clic en la imagen para visualizar el vídeo de demostración, donde se selecciona un ejecutable, una imagen de previsualización, el nombre y se prueba el cambio de idioma.
