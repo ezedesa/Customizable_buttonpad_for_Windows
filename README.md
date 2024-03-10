@@ -1,6 +1,6 @@
 # Gestor de aplicaciones para windows (acceso rápido)
 
-El proyecto contempla una interface totalmente personalizable, se trata de una grilla, donde puedes definir accesos rápidos a las aplicaciones que desees y tengas en tu pc.
+El proyecto contempla una interfaz totalmente personalizable, se trata de una grilla, donde puedes definir accesos rápidos a las aplicaciones que desees y tengas en tu pc.
 
 En el ejemplo, se utiliza la grilla para acceder abrir los programas con 1 click.
 
